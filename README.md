@@ -50,7 +50,7 @@ It demonstrates data preprocessing, exploratory data analysis (EDA), and model e
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/Chandrakanth-udari/loan-approval-prediction
    ```
 2. Install dependencies:
    ```bash
